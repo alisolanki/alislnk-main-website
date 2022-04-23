@@ -15,18 +15,16 @@ body {
 }
 @media only screen {
 	body {
-		margin: 0 auto;
+		margin: 0 auto 1em auto;
 		max-width: 900px;
 		/* color: rgb(55, 53, 47); */
-        color: white;
-        
+        	color: white;
 	}
 }
 
 body {
 	line-height: 1.5;
-
-    background-color: #2F3437;
+	background-color: #2F3437;
 }
 
 a,
